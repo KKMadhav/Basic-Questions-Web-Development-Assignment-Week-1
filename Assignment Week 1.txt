@@ -1,0 +1,27 @@
+											Basic Questions Web Development
+
+				 									 Assignment Week 1
+
+1. What is HTML?
+Ans:- HTML stands for HyperText Markup Language. HTML is the structure of the websites or the body(or content) of the websites.
+
+2. What is CSS?
+Ans:-CSS stands for Cascading Style Sheet. Which is the design of the webpage to make the website presentable.
+
+3. What is the difference between front-end and back-end development?
+Ans:-
+Frontend Development:
+It is part of the website that is directly visible to the user to which he can interact with. It is also known as 
+the client side of the application as it is visible to the user.
+Examples: HTML, CSS, JavaScript
+
+Backend Development:
+It is the part of the website which is not visible to the user and he cannot interact with it. It is the server side of the website that is used to process, store, and arrange the data.
+Example: API
+
+4. What is JavaScript?
+Ans:-JavaSript is used to provide interactivity to the website so that the website can have some dynamic 
+behaviour.
+
+5. What is a responsive web design?
+Ans:- Responsive web design (RWD) refers to designing websites to adapt to a user's device. The goal is for a website to retain its optimal usability and appearance regardless of the device it's displayed on.
